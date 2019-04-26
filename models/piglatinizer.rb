@@ -26,4 +26,6 @@ class PigLatinizer
 
   def piglatinize_sentence(sentence)
 
+  end
+
 end
