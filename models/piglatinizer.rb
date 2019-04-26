@@ -12,5 +12,6 @@ class PigLatinizer
   end
 
   def piglatinize_word(word)
+    if !consonant?(word[0])
 
 end
