@@ -9,5 +9,8 @@ class PigLatinizer
 
   def consonant?(char)
     !char.match(/[aAeEiIoOuU]/)
+  end
+
+  def piglatinize_word(word)
 
 end
